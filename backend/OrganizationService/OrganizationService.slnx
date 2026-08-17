@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="src/OrganizationService.Application/OrganizationService.Application.csproj" Id="b9bc5a6f-aa16-4807-8bb5-b3b65761ffa4" />
+  <Project Path="src/OrganizationService.Contracts/OrganizationService.Contracts.csproj" Id="4cc9630d-9fc8-4d78-87e2-14d8fbf2a2f5" />
+  <Project Path="src/OrganizationService.Domain/OrganizationService.Domain.csproj" Id="9ce32cbd-87b1-471d-82e4-e9a1ebce3009" />
+  <Project Path="src/OrganizationService.Infrastructure.Postgres/OrganizationService.Infrastructure.Postgres.csproj" Id="8a926225-e60d-46e9-a6d0-8ba966178800" />
+  <Project Path="src/OrganizationService.Presentation/OrganizationService.Presentation.csproj" Id="0773e93b-5f6b-46c3-aea0-f5938c512cce" />
+</Solution>
